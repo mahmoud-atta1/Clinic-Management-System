@@ -280,7 +280,7 @@ npm run dev
 ## 👥 Roles & Permissions
 
 ### 👑 Admin
-The Admin has full system access and is responsible for managing the entire clinic infrastructure.
+The Admin has full system access and is responsible for managig the entire clinic infrastructure.
 
 - ✅ Create, update, and deactivate doctor and receptionist accounts
 - ✅ View all appointments across all doctors
