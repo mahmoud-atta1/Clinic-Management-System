@@ -4,7 +4,7 @@ import {
   login,
   logout,
   forgotPassword,
-  verifyResetToken,
+  verifyResetToken, 
   resetPassword,
   getProfile,
 } from "./auth.controller";

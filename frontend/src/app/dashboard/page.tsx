@@ -200,7 +200,7 @@ function DoctorOverview() {
 
 function ReceptionistOverview() {
   const { user } = useAuth();
-  const [stats, setStats] = useState({ todayAppts: 0, todayRevenue: 0, newBookings: 0 });
+  const [stats, setStats] = useState({ todayAppts: 0, todayRevenue: 0, newBookings: 0, workingDoctors: 0 });
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
