@@ -147,7 +147,7 @@ Clinic-Management-System/
 │       │   │   ├── user.controller.ts
 │       │   │   ├── user.service.ts
 │       │   │   ├── user.model.ts
-│       │   │   └── user.routes.ts
+│       │   │   └── user.rotes.ts
 │       │   │
 │       │   └── 📁 doctor/
 │       │       ├── doctor.controller.ts
